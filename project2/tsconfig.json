@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "ES2022",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "composite": true,
+    "rootDir": "."
+  },
+  "include": [
+    "index.ts"
+  ],
+  "references": [
+    {
+      "path": "../project1"
+    }
+  ]
+}
